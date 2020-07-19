@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Wedding</string>
+    <string name="btn_lanjut">Lanjut</string>
+    <string name="btn_skip">Skip</string>
+    <string name="desc_satu">Siapkan pernikahan anda sesuai dengan keinginan</string>
+    <string name="desc_dua">Kumpulkan persiapan pernikahan</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="menu_home">Home</string>
+    <!--    <string name="menu_gallery">Gallery</string>-->
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_tentang">Tentang</string>
+    <string name="menu_send">Send</string>
+    <string name="tv_welcome">Selamat Datang</string>
+    <string name="tvdekorasi">Dekorasi</string>
+    <string name="tv_makeup">Make Up</string>
+    <string name="tv_soupenir">Souvenir</string>
+    <string name="tv_undangan">Undangan</string>
+    <string name="tv_catering">Catering</string>
+    <string name="tv_bulan_madu">Bulan Madu</string>
+    <string name="tv_prasmanan">Prasmanan</string>
+    <string name="tv_dekorasi">Dekorasi</string>
+    <string name="tv_dekorasii">Dekorasi + Photobooth + Hiburan</string>
+    <string name="menu_pesanan">Pesanan</string>
+    <string name="menu_artikel">Artikel</string>
+    <string name="tv_deskripsi">Deskripsi</string>
+    <string name="lihatdata">Data Pesanan</string>
+    <string name="pesanan">Data Pesanan</string>
+    <string name="kategori">Kategori</string>
+
+
+    <string-array name="Dekorasi">
+        <item>Pilih Dekorasi</item>
+        <item>Dekorasi Jawa Modern</item>
+        <item>Dekorasi Tradisional</item>
+        <item>Dekorasi Gabungan</item>
+        <item>Dekorasi Garden Party</item>
+        <item>Dekorasi Elegan</item>
+        <item>Dekorasi Minimalis</item>
+    </string-array>
+
+    <string-array name="Makeup">
+        <item>Pilih Make Up</item>
+        <item>Make Up Tardisional dan Modern</item>
+        <item>Make Up Trp Bridal Modern</item>
+        <item>Make Up Hijab Syari Modern</item>
+        <item>Make Up India</item>
+        <item>Make Up Korea</item>
+    </string-array>
+
+    <string-array name="Undangan">
+        <item>Pilih Undangan</item>
+        <item>Undangan Kipas</item>
+        <item>Undangan Gulung</item>
+        <item>Undangan Hard Cover</item>
+        <item>Undangan Full Cover</item>
+        <item>Undangan Kalender</item>
+    </string-array>
+
+    <string-array name="Souvenir">
+        <item>Pilih Souvenir</item>
+        <item>Souvenir Garpu Kayu</item>
+        <item>Souvenir Gantungan Kunci</item>
+        <item>Souvenir Gelas</item>
+        <item>Souvenir Pouch Minii</item>
+        <item>Souvenir Flashdisk Kayu</item>
+    </string-array>
+
+
+    <string name="action_settings">Logout</string>
+    <string name="title_activity_buatbiodata">Form Biodata Baru</string>
+    <string name="title_activity_lihatbiodata">Lihat Biodata</string>
+    <string name="title_activity_updatebiodata">Update Biodata</string>
+
+    <string name="notification_title">Pesanan Sukses</string>
+    <string name="notification_text">Pesanan sukses, silahkan tunggu konfirmasi melalui whatsapp</string>
+
+    <string name="notification_channel_name">Wedding Organizer</string>
+    <string name="notification_channel_description">Notification from WO</string>
+    <string name="deskripsi">Jasa wedding ini berdiri sejak tahun 2010. Jasa yang cocok digunakan untuk mempersiapkan oernikahan anda. Sebelum memesah harap isi data dengan teliti agar tidak terjadi kesalahan.
+    Kami akan membuat anda puas dengan hasilnya </string>
+    <string name="phone"> Hubungi : 089657096896 /n Nomor Rekening : 021 234 245 9900</string>
+    <string name="action_logout">Logout</string>
+</resources>

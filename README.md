@@ -1,2 +1,2 @@
-# Wedding
-Tugas Besar Mata Kuliah Pemrograman Perangkat Bergerak
+# Tubes_wedding
+Tugas Besar Pemrograman Perangkat Bergerak
